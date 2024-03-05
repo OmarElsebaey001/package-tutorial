@@ -7,8 +7,5 @@ setup(
     install_requires=[
         'protobuf',
         'boto3',
-        'datetime',
-        'base64',
-        'json',
     ],
 )
